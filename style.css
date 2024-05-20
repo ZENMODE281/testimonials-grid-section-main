@@ -94,6 +94,11 @@ h3{
 #avatar{
     height: 50px;
 }
+#jjk{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
 @media screen and (max-width: 600px) {
     .container{
         display: flex;
